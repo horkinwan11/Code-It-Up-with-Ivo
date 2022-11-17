@@ -1,0 +1,10 @@
+Control+Shift+V  - select multiple copy paste lines for paste
+Control + F10 - faster breakpoint 
+Check Menu-> Options->Projects and Solutions->Track Active Item in Solution Explorer - Solution follow the active file 
+Control + D - find the file in big project
+Turn on Pin up  or Check Options -> Environment -> Tabs and Windows -> Show pinned tabs in separate row or single clieck file ( wont create new tab )
+Ctronl K  ControlE - clean up code   ( menu -> configure Code Clean up or Options-> TextEditor-> C# ->Code Style-> General )
+Hold down Cursor - to write/delete muliple lines  // control+ D -> copy lines faster
+Options-> Projects and Solutions -> Restore SOlution Explorer project hierarchy state on solution load
+ Options -> Environment -> Keyboard
+ Edit-> Paste Special - work with JSon file
